@@ -7,5 +7,6 @@ export function TodoItem({todo}){
 
     return (
         <li className="list-group-item">{tarea}</li>
+        
     );
 }
